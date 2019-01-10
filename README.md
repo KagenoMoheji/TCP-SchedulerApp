@@ -6,7 +6,7 @@ In a lecture of university, I created Scheduler-App consisting of server-client 
 - C++とGTK+ライブラリを用いて実装した．
 - TCP通信を用いており，ここではサーバークライアントの構成で処理している．
 - 2人でのグループワークだったが，90％私が実装した（残り10％はパートナーがServer側の実装を一部行った）．
-- 2018年7月のみの表示となっておりアプリとしては完成ではない．
+- **2018年7月のみの表示となっておりアプリとしては完成ではない．**
 
 ## 発表スライド(パートナー作成)抜粋
 ![slide1](https://github.com/KagenoMoheji/TCP-SchedulerApp/blob/others/slides/slide4.JPG)
