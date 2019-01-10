@@ -11,5 +11,5 @@ scheduler/Release/
 scheduler/scheduler.vcxproj.filters
 scheduler/scheduler.vcxproj
 scheduler/ReadMe.txt
-scheduler/stdafx.h
+scheduler/stdafx.cpp
 scheduler/targetver.h
