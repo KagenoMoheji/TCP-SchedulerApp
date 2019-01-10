@@ -1,0 +1,15 @@
+Debug/
+gtk+/
+ipch/
+Release/
+.vs/
+setIcon.aps
+scheduler.VC.db
+scheduler.sln
+scheduler/Debug/
+scheduler/Release/
+scheduler/scheduler.vcxproj.filters
+scheduler/scheduler.vcxproj
+scheduler/ReadMe.txt
+scheduler/stdafx.h
+scheduler/targetver.h
